@@ -1,0 +1,80 @@
+body {
+  /* padding-top: 40px; */
+  /* padding-bottom: 40px; */
+  /* background-color: azure; */
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: 'Roboto';
+  /* background: linear-gradient(to right, rgb(83,105,118),rgb(41,46,73)); */
+  background: #B24592;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #F15F79, #B24592);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #F15F79, #B24592); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.form-signin {
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
+.form-signin .form-signin-heading,
+.form-signin .checkbox {
+  margin-bottom: 10px;
+  text-align: center;
+  color: #ffffff;
+}
+.form-signin .checkbox {
+  font-weight: normal;
+}
+.form-signin .form-control {
+  position: relative;
+  height: auto;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  margin-bottom:20px;
+  margin-top: 20px;
+}
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;  
+  margin-bottom:20px;
+  margin-top: 20px;
+}
+
+.meg-danger-login{
+  margin: 0 auto;
+  background-color: rgba(0, 0, 0, .25);
+  max-width: 300px;
+  max-height: 50px;
+  padding: 15px;
+  color: darkred;
+  text-align: center;
+  font-size: 1.1em;
+  font-weight: bold;
+}
+
+.meg-succees-login{
+  margin: 0 auto;
+  background-color: rgba(0, 0, 0, .25);
+  max-width: 300px;
+  padding: 15px;
+  color: darkcyan;
+  text-align: center;
+  font-size: 1.1em;
+  font-weight: bold;
+}

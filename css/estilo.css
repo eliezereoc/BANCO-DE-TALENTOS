@@ -1,0 +1,96 @@
+body {
+    font-family: 'Roboto';
+    margin-top: 50px;
+    line-height: 1.25; 
+    
+}
+
+nav{    
+    background-color: #d91b5c;
+}
+
+footer{
+    color: #fff;
+    background-color: #d91b5c;
+}
+ 
+.botao_menu{
+    width: 150px; 
+    height: 100px;
+}
+
+#hr_1{
+    color: #000;
+    background-color: #000;
+    height: 3px;
+}
+
+.hr_2{ 
+    display: block;
+    margin-top: 0.1em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+} 
+
+.thumb{
+    height:75px;
+    border: 1px solid #000;
+    margin: 10px 5px 0 0;
+}
+
+.topo_alert{
+    padding-top: 100px;
+}
+
+.alinhamento_tabela_1{
+    vertical-align: middle; 
+    text-align: center;
+}
+
+.fonteMaiuscula{
+    text-transform: uppercase;
+}
+
+.fonteMinuscula{
+    text-transform: lowercase;
+}
+
+.carregando{
+	color:#ff0000;
+	display:none;
+}
+
+p.espaco_top{
+    padding-top: 1em;
+}
+
+p.espacobottom{
+    padding-bottom: 50px;
+}
+  
+.nav-tabs > li > a,
+.nav-tabs > li > a:hover,
+.nav-tabs > li > a:focus {
+    color: darkgray;/*letra quando a aba esta inativa*/
+}
+.nav-tabs > .open > a,
+.nav-tabs > .open > a:hover,
+.nav-tabs > .open > a:focus,
+.nav-tabs > li > a:hover,
+.nav-tabs > li > a:focus {
+	color: #fff;/*letra quando passa o mouse*/
+	background-color: #d91b5c;/*cor da aba quando passa o mouse*/
+	border-color: transparent;/*deixa borda transparente*/
+}
+.nav-tabs > li a.nav-link.active {
+    color: #fff;/*cor da letra quando a aba esta ativa*/
+	background-color: #d91b5c;/*cor da aba quando esta ativa*/
+	border-color: #d91b5c;/*cor da borda ativa*/
+	border-bottom-color: transparent; /*deixa a borda inferior da aba transparente*/
+}
+
+
+ 

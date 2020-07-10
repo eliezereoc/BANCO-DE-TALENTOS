@@ -1,0 +1,51 @@
+[02-Oct-2019 09:06:37] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/rotar160/bancodetalentos.rotaract4630.com.br/formcad/database.php on line 44
+[02-Oct-2019 09:08:10] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/rotar160/bancodetalentos.rotaract4630.com.br/formcad/database.php on line 44
+[02-Oct-2019 09:09:35] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/rotar160/bancodetalentos.rotaract4630.com.br/formcad/database.php on line 44
+[02-Oct-2019 09:36:53 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/rotar160/bancodetalentos.rotaract4630.com.br/formcad/database.php:44
+Stack trace:
+#0 /home/rotar160/bancodetalentos.rotaract4630.com.br/formcad/database.php(26): busca('usuarios')
+#1 /home/rotar160/bancodetalentos.rotaract4630.com.br/formcad/cad_user/listar_usuario.php(9): busca_all('usuarios')
+#2 {main}
+  thrown in /home/rotar160/bancodetalentos.rotaract4630.com.br/formcad/database.php on line 44
+[02-Oct-2019 09:37:53 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/rotar160/bancodetalentos.rotaract4630.com.br/formcad/database.php:44
+Stack trace:
+#0 /home/rotar160/bancodetalentos.rotaract4630.com.br/formcad/database.php(26): busca('usuarios')
+#1 /home/rotar160/bancodetalentos.rotaract4630.com.br/formcad/cad_user/listar_usuario.php(9): busca_all('usuarios')
+#2 {main}
+  thrown in /home/rotar160/bancodetalentos.rotaract4630.com.br/formcad/database.php on line 44
+[02-Oct-2019 09:37:55 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/rotar160/bancodetalentos.rotaract4630.com.br/formcad/database.php:44
+Stack trace:
+#0 /home/rotar160/bancodetalentos.rotaract4630.com.br/formcad/database.php(26): busca('usuarios')
+#1 /home/rotar160/bancodetalentos.rotaract4630.com.br/formcad/cad_user/listar_usuario.php(9): busca_all('usuarios')
+#2 {main}
+  thrown in /home/rotar160/bancodetalentos.rotaract4630.com.br/formcad/database.php on line 44
+[02-Oct-2019 09:37:59 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/rotar160/bancodetalentos.rotaract4630.com.br/formcad/database.php:44
+Stack trace:
+#0 /home/rotar160/bancodetalentos.rotaract4630.com.br/formcad/database.php(26): busca('usuarios')
+#1 /home/rotar160/bancodetalentos.rotaract4630.com.br/formcad/cad_user/listar_usuario.php(9): busca_all('usuarios')
+#2 {main}
+  thrown in /home/rotar160/bancodetalentos.rotaract4630.com.br/formcad/database.php on line 44
+[02-Oct-2019 09:38:07 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/rotar160/bancodetalentos.rotaract4630.com.br/formcad/database.php:44
+Stack trace:
+#0 /home/rotar160/bancodetalentos.rotaract4630.com.br/formcad/database.php(26): busca('usuarios')
+#1 /home/rotar160/bancodetalentos.rotaract4630.com.br/formcad/cad_user/listar_usuario.php(9): busca_all('usuarios')
+#2 {main}
+  thrown in /home/rotar160/bancodetalentos.rotaract4630.com.br/formcad/database.php on line 44
+[02-Oct-2019 20:04:48 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/rotar160/bancodetalentos.rotaract4630.com.br/formcad/database.php:44
+Stack trace:
+#0 /home/rotar160/bancodetalentos.rotaract4630.com.br/formcad/database.php(26): busca('usuarios')
+#1 /home/rotar160/bancodetalentos.rotaract4630.com.br/formcad/cad_user/listar_usuario.php(9): busca_all('usuarios')
+#2 {main}
+  thrown in /home/rotar160/bancodetalentos.rotaract4630.com.br/formcad/database.php on line 44
+[02-Oct-2019 20:07:59 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/rotar160/bancodetalentos.rotaract4630.com.br/formcad/database.php:44
+Stack trace:
+#0 /home/rotar160/bancodetalentos.rotaract4630.com.br/formcad/database.php(26): busca('usuarios')
+#1 /home/rotar160/bancodetalentos.rotaract4630.com.br/formcad/cad_user/listar_usuario.php(9): busca_all('usuarios')
+#2 {main}
+  thrown in /home/rotar160/bancodetalentos.rotaract4630.com.br/formcad/database.php on line 44
+[02-Oct-2019 20:08:56] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/rotar160/bancodetalentos.rotaract4630.com.br/formcad/database.php on line 44
+[02-Oct-2019 20:38:31] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rotar160/bancodetalentos.rotaract4630.com.br/formcad/cad_user/novo_usuario_sql.php:55) in /home/rotar160/bancodetalentos.rotaract4630.com.br/formcad/cad_user/novo_usuario_sql.php on line 74
+[02-Oct-2019 20:46:18] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rotar160/bancodetalentos.rotaract4630.com.br/formcad/cad_user/novo_usuario_sql.php:55) in /home/rotar160/bancodetalentos.rotaract4630.com.br/formcad/cad_user/novo_usuario_sql.php on line 74
+[02-Oct-2019 20:49:30] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rotar160/bancodetalentos.rotaract4630.com.br/formcad/cad_user/novo_usuario_sql.php:38) in /home/rotar160/bancodetalentos.rotaract4630.com.br/formcad/cad_user/novo_usuario_sql.php on line 75
+[02-Oct-2019 20:51:52 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rotar160/bancodetalentos.rotaract4630.com.br/formcad/cad_user/novo_usuario_sql.php:44) in /home/rotar160/bancodetalentos.rotaract4630.com.br/formcad/cad_user/novo_usuario_sql.php on line 75
+[02-Oct-2019 22:59:12 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rotar160/bancodetalentos.rotaract4630.com.br/formcad/cad_user/editar_usuario_sql.php:27) in /home/rotar160/bancodetalentos.rotaract4630.com.br/formcad/cad_user/editar_usuario_sql.php on line 55
