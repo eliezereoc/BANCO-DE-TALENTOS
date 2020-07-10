@@ -1,3 +1,6 @@
+
+<!-- Responsavel: Eliezer de Oliveira Cardoso -->
+
 <?php 
     if (!isset($_SESSION)) session_start();// inicia em cada página diferente
     // Verifica se não há a variável da sessão que identifica o usuário
