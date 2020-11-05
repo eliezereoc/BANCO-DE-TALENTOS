@@ -1,7 +1,7 @@
 <?php
-	define('DB_NAME', 'rotar160_bd_tel');// O nome do banco de dados
-	define('DB_USER', 'rotar160');// Usuário do banco de dados MySQL 
-	define('DB_PASSWORD', 'mafd33');// Senha do banco de dados MySQL
+	define('DB_NAME', 'bd_telentos');// O nome do banco de dados
+	define('DB_USER', 'root');// Usuário do banco de dados MySQL 
+	define('DB_PASSWORD', '123456');// Senha do banco de dados MySQL
 	define('DB_HOST', 'localhost');// nome do host do MySQL
 	if ( !defined('ABSPATH') ) define('ABSPATH', dirname(__FILE__) . '/');// caminho absoluto para a pasta do sistema
 	if ( !defined('BASEURL') ) define('BASEURL', '/formcad/');// caminho no server para o sistema 
